@@ -12,7 +12,7 @@ FOR OCS PANEL ONLY
 ### Commands
 
 ```
-yum -y update && yum -y install wget && wget https://raw.githubusercontent.com/shigeno143/OCSPanelCentos6/master/OCSCentos.sh && chmod +x OCSCentos.sh && ./OCSCentos.sh && rm -f OCSCentos.sh && history -c
+yum -y update && yum -y install wget && wget https://raw.githubusercontent.com/baaph/OCSPanelCentos6/master/OCSCentos.sh && chmod +x OCSCentos.sh && ./OCSCentos.sh && rm -f OCSCentos.sh && history -c
 ```
 
 FOR VPS ONLY
